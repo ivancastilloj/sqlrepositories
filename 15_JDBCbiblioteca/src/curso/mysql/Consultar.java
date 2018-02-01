@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class Consultar {
 
-	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+	public static void consultar() throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
  
 		Class.forName("com.mysql.jdbc.Driver");
