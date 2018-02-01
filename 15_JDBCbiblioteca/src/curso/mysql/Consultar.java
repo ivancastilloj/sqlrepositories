@@ -26,7 +26,7 @@ public class Consultar {
 			System.out.println("Autor: "+ rs.getString(3));
 			System.out.println("Precio: "+ rs.getFloat(4)+"€");
 			System.out.println("Fecha de publicación: "+ rs.getDate(5));
-			System.out.println("");
+			System.out.println(""); 
 		}
 //		Scanner sc = new Scanner(System.in);
 //		System.out.println("Introduzca el titulo");
